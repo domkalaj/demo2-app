@@ -42,5 +42,5 @@ const dats = [
     },
     location: "Online",
     openSpots: 10,
-  },
+  },    
 ];
